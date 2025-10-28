@@ -1,4 +1,5 @@
-# Python Student_and_Bank_record_system
+#  Student record by file handling and Bank record system
+
 Beginner-friendly Python mini projects developed during my internship at YoungDev.
 Each project focuses on building strong programming fundamentals — from functions and loops to file handling and OOP concepts.
 
